@@ -1,4 +1,4 @@
-![MasterHead](https://media.tenor.com/8wV2u-sbpeIAAAAd/waneella-pixel-art-urban-city.gif)
+![MasterHead](blob:https://tenor.com/18023023-14d2-4705-81c6-cf648554aea1)
 <h1 align="center">Hi 👋, I'm Nikhil Soni</h1>
 <h3 align="center">## 🚀 Full-Stack Developer in the Making | Passionate about Backend Systems & AI Innovations</h3>
 <img align="right" width="400" alt="coding" src="https://cdn.dribbble.com/users/1355613/screenshots/10374655/media/5691629ca1e7389c34a9c0dae158b976.gif"/>
