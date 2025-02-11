@@ -1,7 +1,7 @@
 ![MasterHead](https://i.pinimg.com/originals/bc/87/e5/bc87e5124f8d2cfe810d403adc96ad01.gif)
 <h1 align="center">Hi 👋, I'm Nikhil Soni</h1>
 <h3 align="center" style="font-weight: bold;">🚀 Full-Stack Developer in the Making | Passionate about Backend Systems & AI Innovations</h3>
-<img align="center" width="100%" height="500px" alt="coding" src="https://cdn.dribbble.com/users/1355613/screenshots/10374655/media/5691629ca1e7389c34a9c0dae158b976.gif"/>
+<img align="center" width="100%" height="500px" alt="coding" src="https://i.redd.it/bpxxqqvps4h91.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilij&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilij" /> </p>
 
