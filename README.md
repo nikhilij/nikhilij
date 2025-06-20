@@ -1,4 +1,4 @@
-![MasterHead]([https://raw.githubusercontent.com/nikhilij/nikhilij/refs/heads/main/boitumelo-CJJdMHz4s5c-unsplash.jpg])
+![MasterHead](https://raw.githubusercontent.com/nikhilij/nikhilij/refs/heads/main/boitumelo-CJJdMHz4s5c-unsplash.jpg)
 <h1 align="center">Hi 👋, I'm Nikhil Soni</h1>
 <h3 align="center" style="font-weight: bold;">🚀 Full-Stack Dev | AI Wizard | Crafting Epic Solutions 🥹🥹✨✨</h3>
 <img align="center" width="100%" height="500px" alt="coding" src="https://i.redd.it/bpxxqqvps4h91.gif"/>
